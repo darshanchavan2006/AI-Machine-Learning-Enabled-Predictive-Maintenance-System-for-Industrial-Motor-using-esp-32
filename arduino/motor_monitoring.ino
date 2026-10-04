@@ -13,7 +13,6 @@
   NOTE:
   This version uses threshold-based classification.
   It is a hardware prototype for collecting data.
-  A trained ML/TinyML model can be added later.
 */
 
 #include <Wire.h>
